@@ -18,7 +18,8 @@ Aplicacion de consola en Java que solicita al usuario cinco datos de un vehiculo
 ```
 aiep2026/
 ├── src/
-│   └── DatosVehiculo.java               
+│   └── DatosVehiculo.java
+├── DatosVehiculo.class         
 └── README.md
 ```
 
