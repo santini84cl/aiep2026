@@ -114,7 +114,7 @@ Tiene una capacidad de 5 pasajeros.
 | RNF06 | El programa debe ser compilable y ejecutable en cualquier sistema operativo con JDK instalado (Windows, Mac, Linux). |
 | RNF07 | El tiempo de respuesta del programa debe ser inmediato (menos de 1 segundo por operacion). |
 | RNF08 | El codigo debe ser legible, con indentacion correcta y nombres de variables descriptivos en espanol. |
-| RNF09 | El repositorio en GitHub debe estar organizado con las carpetas src/, docs/ y cronograma/. |
+| RNF09 | El repositorio en GitHub debe estar organizado con la carpeta src/ |
 | RNF10 | El README.md debe estar escrito en formato Markdown y contener requerimientos e historias de usuario. |
 
 ---
